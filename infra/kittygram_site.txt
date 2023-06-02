@@ -1,5 +1,5 @@
 IP: 51.250.101.235;
-name_taski: https://weensaw;
-name_kittygram: https://weeensaw;
+name_taski: https://weensaw.hopto.org;
+name_kittygram: https://weeensaw.hopto.org;
 login: admin;
 password: 17875432wensaw;
